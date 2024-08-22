@@ -1,0 +1,70 @@
+
+
+body{
+  background-image: url('https://www.infobae.com/new-resizer/eFueMM_fWK8_Ncp397ylpL62UF4=/992x558/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/BH72GSTEABBJJO7IEA7A6F5ES4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.box{
+  margin-top:2%;
+  margin-left: 18%;
+  width:65%;
+  height: 780px;
+  padding:10px;
+  border-radius:20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+img{
+  max-width: 20%;
+  height: auto;
+  margin-left: 38%;
+  margin-top: 5%;
+}
+
+h1{
+  margin: auto;
+  color: rgb(8,220,4);
+  text-align: center;
+  font-family:arial;
+}
+
+nav{
+  background-color:rgb(8,220,4);
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+h3,p{
+  color: white;
+  padding-left: 9%;
+}
+
+p{
+    margin:0px;
+}
+
+#bar1,#bar2,#bar3{
+  border-radius: 5px;
+  margin-left: 9%;
+  padding: 15px;
+}
+
+#bar1{
+  background-color: orange;
+  width: 25%;
+}
+
+#bar2{
+  background-color: green;
+  width: 50%;
+}
+
+#bar3{
+  background-color: red;
+  width: 10%;
+}
